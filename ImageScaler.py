@@ -90,7 +90,6 @@ def upscale_main_side(output_img):
     output_img.save(result_img)
     print('Upscale finished..!')
     output_img.show()
-    
 
 def image_info(path):
     """
